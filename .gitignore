@@ -1,0 +1,19 @@
+# macOS metadata
+.DS_Store
+
+# Assembler and emulator build output
+*.exe
+*.EXE
+*.com
+*.COM
+*.obj
+*.OBJ
+*.lst
+*.LST
+*.map
+*.MAP
+
+# Editor backups
+*.bak
+*.swp
+*~
